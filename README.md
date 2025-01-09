@@ -1,5 +1,4 @@
 # data-portfolio
-A comprehensive guide into my data projects
 
 Hello! My name is Jennifer. 
 
